@@ -1,0 +1,1 @@
+# Predicting-Mean-Reverted-vs.-Trending-Trading-Strategy
